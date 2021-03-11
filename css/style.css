@@ -1,0 +1,129 @@
+/* *{box-sizing: border-box; */
+/* } */
+
+/* body{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%; */
+/* } */
+header nav{
+   
+    padding: 80px;
+     background: white;
+    height: 20px;
+  }
+#b{
+height: 80px;
+float: right;
+}
+#a{
+height: 80px;
+/* float: left; */
+padding-left: 335;
+
+}
+
+#title {
+margin-bottom: 0px;
+font-style:bold;
+color:black;
+padding-left: 335px;
+font-size: 50px;
+display: inline
+
+}
+#sub{
+margin: 0px;
+padding-left: 335px;
+    color:gray;
+    padding-bottom: 20px;
+    font-size: 20px;
+
+}
+main img{
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 50%;
+}
+main p{
+float: center;
+text-align: left;
+
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 50%;
+margin-bottom: 25px;
+} 
+main section{
+background-color: gray;
+background-image:  url(https://slack-imgs.com/?c=1&o1=ro&url=https%3A%2F%2Fscontent.famm3-3.fna.fbcdn.net%2Fv%2Ft1.15752-9%2F159682750_479044106800750_3823193053586924077_n.png%3F_nc_cat%3D104%26ccb%3D1-3%26_nc_sid%3Dae9488%26_nc_eui2%3DAeE4DVZK4966KA6vCFTZG0Quw4DJnUenyhbDgMmdR6fKFkJfTBymf-bIcDkqDPfWsdsW4AGKqKSw1a1Iw28s5JMI%26_nc_ohc%3DWwXzgN-p7m4AX_xrxcW%26_nc_ht%3Dscontent.famm3-3.fna%26oh%3D3993447fef3c778d6953f7df8bc04a10%26oe%3D6070F5F0);
+border: green 2px solid;
+margin: 335px;
+margin-top: 0px;
+margin-bottom: 0px;
+}
+main section div:first-child{
+display: inline-block;
+
+font-size: 20px;
+
+}
+/* main section div ul:nth-child(2){
+
+ color: greenyellow;
+} */
+footer{
+    clear: both;
+    text-align: center;
+    color: #c9c5c5;
+  }  
+
+  #h{
+      margin-right: 70px;
+      float: left;
+      list-style-type:square;
+      
+  }
+  #k{
+    float: right;
+      list-style-type:square;
+       
+  }
+  .a{
+    text-decoration: line-through;
+    
+
+
+}
+  
+  #redias
+  {
+    
+        border-radius: 50%;
+      width: 7%;
+      float: left;
+      margin-left: 335px;
+      margin-right: 10px;
+      margin-top: 10px;
+    margin-bottom: 0px;
+    
+      
+  }
+  #name {
+      padding-top: 20px;
+      
+  }
+  
+#comment{
+word-wrap: break-word;
+
+}
+#line{
+background-image: linear-gradient(45deg, #FFFFFF 28.57%, #E0E0E0 28.57%, #E0E0E0 50%, #FFFFFF 50%, #FFFFFF 78.57%, #E0E0E0 78.57%, #E0E0E0 100%);
+background-size: 9.90px 9.90px;
+height: 10px;
+
+}
